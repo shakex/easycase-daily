@@ -1,0 +1,2 @@
+# easycase-daily
+spring
